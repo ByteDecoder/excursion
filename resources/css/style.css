@@ -1,0 +1,32 @@
+body {
+  background-color: #000;
+  color: #fff;
+  opacity: 0.9;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: aquamarine;
+  text-decoration: underline;
+  font-size: 1rem;
+}
+
+header h1 {
+  font-size: 3.12rem;
+}
+
+main h1 {
+  font-weight: 300;
+  font-size: 2.62rem;
+}
+
+main h3 {
+  font-size: 1.31rem;
+  color: gray;
+}
+
+footer h3 {
+  color: gray;
+  text-align: right;
+}
