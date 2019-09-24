@@ -39,4 +39,5 @@ main h3 {
 footer h3 {
   color: gray;
   text-align: right;
+  padding-right: 0.5em;
 }
